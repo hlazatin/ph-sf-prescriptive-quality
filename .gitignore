@@ -1,0 +1,8 @@
+# environment
+.pqenv
+
+# parquet files
+sample_plots
+
+# Jupyter Notebook
+.ipynb_checkpoints
